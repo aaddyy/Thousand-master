@@ -1,0 +1,6 @@
+framework module Pods_Thousand {
+  umbrella header "Pods-Thousand-umbrella.h"
+
+  export *
+  module * { export * }
+}
